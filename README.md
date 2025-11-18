@@ -1,37 +1,42 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&width=600&lines=Hi+there,+I'm+Ramya+%F0%9F%91%8B+%F0%9F%8C%9F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&width=600&lines=Hi+Coders,+I'm+Ramya+%F0%9F%91%8B+%F0%9F%8C%9F" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/duvvuri-ramya-bhavajna-496508251/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ramya-blue?logo=linkedin" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/duvvuri-ramya-bhavajna-496508251/" style="text-decoration:none;">
+  <b>  🔗 LinkedIn</b>
   </a>
-  <a href="https://github.com/Ramya-Duvvuri">
-    <img src="https://img.shields.io/badge/GitHub-Ramya-black?logo=github" alt="GitHub Badge"/>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/Ramya-Duvvuri" style="text-decoration:none;">
+   <b>  💻 GitHub </b>
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green" alt="Portfolio Badge"/>
+  &nbsp; | &nbsp;
+  <a href="https://your-portfolio-link.com" style="text-decoration:none;">
+  <b>  🌎 Portfolio</b>
   </a>
 </p>
+
+
+
+
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi! I’m **Ramya**, a **Full-Stack Developer & AI Enthusiast** passionate about building **interactive, scalable, and intelligent applications**.  
-I love working with **Python, React, SQL, and AI/ML technologies** to create solutions that make life easier.  
+Hi! I’m **Ramya**, a developer who loves building clean, intelligent, and user-focused applications.  
+I work across the full stack, combining **Python, React, SQL, and AI tools** to craft solutions that are both smart and scalable.
 
-- 🌱 Currently exploring **AI projects and modern web app optimization**  
-- 💬 Ask me about **Python, React, AI, or SQL**  
-- ⚡ Fun fact: I enjoy **turning complex problems into elegant solutions**  
+- 🔍 Currently improving my expertise in **AI integration and high-performance frontend design**  
+- 🧠 I enjoy breaking down complex ideas and turning them into simple, practical systems  
+- 🚀 Always excited to learn, iterate, and build things that genuinely help people  
 
----
 
 ## 🛠 Skills & Technologies
 
 ### Programming & Backend
 - 🐍 **Python** – Django, Flask, REST APIs, Automation  
-- 🗄️ **SQL** – MySQL, PostgreSQL, Queries & Data Modeling  
+- 🗄️ **SQL** – MySQL, Queries   
 
 ### Frontend & Web
 - ⚛️ **React** – React 18, Vite, Component-based Architecture  
@@ -51,12 +56,12 @@ I love working with **Python, React, SQL, and AI/ML technologies** to create sol
 ## 📊 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="60" height="60" title="Python" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" title="React" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" title="MySQL" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" title="TensorFlow" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60" title="PyTorch" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="60" height="60" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" title="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" title="TensorFlow" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60" title="PyTorch" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=opencv" width="60" height="60" title="OpenCV" />
 </p>
 
@@ -73,4 +78,4 @@ I love working with **Python, React, SQL, and AI/ML technologies** to create sol
 
 ---
 
-✨ Let’s build something amazing together!
+<p align = "center" >✨ Let’s build something amazing together!</p>
