@@ -11,9 +11,9 @@
    <b>  💻 GitHub </b>
   </a>
   &nbsp; | &nbsp;
-  <a href="https://your-portfolio-link.com" style="text-decoration:none;">
+  <!-- <a href="https://your-portfolio-link.com" style="text-decoration:none;">
   <b>  🌎 Portfolio</b>
-  </a>
+  </a> -->
 </p>
 
 
